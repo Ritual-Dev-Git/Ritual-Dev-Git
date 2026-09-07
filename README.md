@@ -245,20 +245,6 @@ flowchart LR
 
 </div>
 
-### 🎧 Now Playing
-
-<div align="center">
-
-<!-- Once connected at spotify-github-profile.kittinanx.com/api/login, replace YOUR_SPOTIFY_UID below -->
-<a href="https://spotify-github-profile.kittinanx.com/api/login">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&bar_color=00D4FF&bar_color_cover=false"/>
-</a>
-
-*Not connected yet — click the badge above once to link your Spotify account, then swap `YOUR_SPOTIFY_UID` for the UID it gives you.*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00D4FF,100:7C3AED&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Activity
 
@@ -299,49 +285,7 @@ flowchart LR
 
 </div>
 
-## 🎮 Arcade Contribution Graph
 
-Straight Tetris-as-a-GitHub-Action turned out to not really exist as a maintained option — the closest working setups turn the same grid into other arcade games instead. Minesweeper's the closest thing to a puzzle-block game that's actually solid here, so it's paired with Breakout for a second one:
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/minesweeper-contribution-graph-dark.svg">
-  <img alt="Minesweeper contribution graph" src="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/minesweeper-contribution-graph.svg" width="90%">
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/breakout-contribution-graph-dark.svg">
-  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/breakout-contribution-graph.svg" width="90%">
-</picture>
-
-*Powered by [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph) — the same library also does Pac-Man, Galaga, Puzzle Bobble, and Bomberman if you want to swap games later.*
-
-</div>
-
-## 📊 Metrics Dashboard
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/master/github-metrics.svg" width="90%"/>
-
-*Full isometric-calendar / language-breakdown / habits dashboard from [lowlighter/metrics](https://github.com/lowlighter/metrics) — auto-refreshes daily once its workflow is added.*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
-
-## 🌍 RitualDev Network
-
-<div align="center">
-
-<a href="https://ritualdev.in"><img src="https://img.shields.io/badge/🌐-ritualdev.in-0D1117?style=flat-square"/></a>
-<a href="https://github.com/Ritual-Dev-Git"><img src="https://img.shields.io/badge/💻-GitHub-0D1117?style=flat-square"/></a>
-<a href="https://www.reddit.com/r/MyIDE/"><img src="https://img.shields.io/badge/👾-r%2FMyIDE-0D1117?style=flat-square"/></a>
-
-</div>
 
 ## 🤝 Build With Us
 
