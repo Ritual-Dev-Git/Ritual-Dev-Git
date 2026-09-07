@@ -1,118 +1,135 @@
 <div align="center">
 
-# ⚡ RITUALDEV
+<!-- Layer 1: continuously-twinkling strip (never settles into a still frame) -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7C3AED,100:00D4FF&height=40&section=header&animation=twinkling" width="100%"/>
 
-### SOFTWARE • AI • DEVELOPER TOOLS • EXPERIMENTS
+<!-- Layer 2: looping typing wordmark — this is the actual title, and it's always mid-animation -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=46&duration=3200&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&height=80&lines=%E2%9A%A1+RITUALDEV" alt="RitualDev" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+developer+tools+for+the+next+generation.;Software+%C3%97+AI+%C3%97+Developer+Experience;Currently+building+MyIDE+%F0%9F%9A%80;Build.+Break.+Learn.+Rebuild." alt="RitualDev typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2200&pause=900&color=8B949E&center=true&vCenter=true&width=800&lines=Building+developer+tools+for+the+next+generation.;Software+%2B+AI+%2B+Developer+Experience.;Currently+building%3A+MyIDE.;Real+%3E+Broad.+Verified+%3E+Claimed.;Build.+Break.+Learn.+Rebuild." alt="Typing SVG" />
 
-<br/>
+<!-- Layer 3: waving crest, motion never stops -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D4FF&height=120&section=header" width="100%"/>
 
-<a href="https://ritualdev.in">
-<img src="https://img.shields.io/badge/Website-ritualdev.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<a href="https://ritualdev.in"><img src="https://img.shields.io/badge/Website-ritualdev.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/Ritual-Dev-Git"><img src="https://img.shields.io/badge/GitHub-RitualDev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.reddit.com/r/MyIDE/"><img src="https://img.shields.io/badge/Reddit-r%2FMyIDE-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 
-<a href="https://github.com/Ritual-Dev-Git">
-<img src="https://img.shields.io/badge/GitHub-RitualDev-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+![Profile views](https://komarev.com/ghpvc/?username=Ritual-Dev-Git&label=Profile%20Views&color=7C3AED&style=for-the-badge)
 
-<a href="https://www.reddit.com/r/MyIDE/">
-<img src="https://img.shields.io/badge/Community-r%2FMyIDE-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-</a>
+<br/><br/>
+
+<!-- CTA row: the "clickable-feeling" items — a demo link, trophies, and a feedback badge -->
+<a href="https://ritualdev.in/demo"><img src="https://img.shields.io/badge/▶_PLAY_THE_MYIDE_DEMO-00D4FF?style=for-the-badge&logo=rocket&logoColor=black"/></a>
+<a href="https://github.com/Ritual-Dev-Git/Ritual-Dev-Git/discussions/new?category=general"><img src="https://img.shields.io/badge/💬_LEAVE_FEEDBACK-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritual-Dev-Git&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" /></a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header" width="100%"/>
 
 ## 🧬 RitualDev
 
 **RitualDev** is a software and experimentation lab exploring developer tools, AI, automation, infrastructure, and new software ideas.
 
-```text
-                    ┌──────────────────┐
-                    │    RITUALDEV     │
-                    └────────┬─────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              │              │              │
-              ▼              ▼              ▼
-         🤖 AI LAB       💻 MYIDE      🧪 EXPERIMENTS
-              │              │              │
-              ▼              ▼              ▼
-        Intelligence     Dev Tools       New Ideas
-        Automation       Infrastructure  Prototypes
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=700&lines=We+like+building+things+that+probably+shouldn't+exist+yet." />
+</div>
+
+```mermaid
+flowchart TB
+    A["⚡ RITUALDEV"] --> B["🤖 AI LAB"]
+    A --> C["💻 MYIDE"]
+    A --> D["🧪 EXPERIMENTS"]
+    B --> B1["Intelligence"]
+    B --> B2["Automation"]
+    C --> C1["Dev Tools"]
+    C --> C2["Infrastructure"]
+    D --> D1["New Ideas"]
+    D --> D2["Prototypes"]
+
+    style A fill:#7C3AED,stroke:#00D4FF,stroke-width:2px,color:#fff
+    style B fill:#161B22,stroke:#00D4FF,color:#fff
+    style C fill:#161B22,stroke:#00D4FF,color:#fff
+    style D fill:#161B22,stroke:#00D4FF,color:#fff
 ```
 
-> **We like building things that probably shouldn't exist yet.**
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
 
----
+## 🚀 Currently Building
 
-# 🚀 Currently Building
-
-## 💻 MyIDE
-
-### A developer workspace that understands the project around your code.
+### 💻 MyIDE — *A developer workspace that understands the project around your code.*
 
 MyIDE is a **local-first developer IDE**, beginning with a strong focus on JavaScript and TypeScript development.
 
-The idea is not simply:
+<table align="center">
+<tr>
+<td align="center">
 
-```text
+**The old way**
+
+```
 Open Files → Edit Code
 ```
 
-It's closer to:
+</td>
+<td align="center">⚡</td>
+<td align="center">
 
-```text
-OPEN PROJECT
-     ↓
-UNDERSTAND STACK
-     ↓
-DETECT RUNTIME
-     ↓
-UNDERSTAND DEPENDENCIES
-     ↓
-FIND PROBLEMS
-     ↓
-RUN
-     ↓
-TEST
-     ↓
-DEBUG
-     ↓
-BUILD
+**The MyIDE way**
+
+```mermaid
+flowchart LR
+    A[Open Project] --> B[Understand Stack]
+    B --> C[Detect Runtime]
+    C --> D[Find Problems]
+    D --> E[Run / Test / Debug / Build]
+    style A fill:#7C3AED,color:#fff
+    style E fill:#00D4FF,color:#111
 ```
 
-> **Open a project and let the IDE understand what it is, what it needs, what's running, what's broken, and what should happen next.**
+</td>
+</tr>
+</table>
 
----
+> 💡 **Open a project and let the IDE understand what it is, what it needs, what's running, what's broken, and what should happen next.**
 
-## ⚡ What MyIDE Is Exploring
+<details>
+<summary><b>⚡ What MyIDE Is Exploring — click to expand</b></summary>
+<br/>
 
-|     | Area                 | Goal                                |
-| --- | -------------------- | ----------------------------------- |
-| 💻  | Editor               | JS / TS / JSX / TSX                 |
-| 🧠  | Project Intelligence | Understand the whole project        |
-| 🖥️ | Terminal             | Real terminal and process execution |
-| ⚙️  | Dev Sessions         | Manage multiple project services    |
-| 🧪  | Testing              | Real test-runner integration        |
-| 🐞  | Debugging            | Breakpoints, stacks and variables   |
-| 🔨  | Builds               | Real build-system execution         |
-| 🌿  | Git                  | Repository workflows                |
-| 🌐  | APIs                 | HTTP development                    |
-| 🗄️ | Databases            | Connections, queries and schemas    |
-| 🐳  | Containers           | Docker-based development            |
-| 📦  | Monorepos            | Workspace intelligence              |
-| 🔐  | Security             | Trust, isolation and secrets        |
-| 🤖  | AI                   | Grounded developer assistance       |
+| | Area | Goal |
+|---|---|---|
+| 💻 | Editor | JS / TS / JSX / TSX |
+| 🧠 | Project Intelligence | Understand the whole project |
+| 🖥️ | Terminal | Real terminal and process execution |
+| ⚙️ | Dev Sessions | Manage multiple project services |
+| 🧪 | Testing | Real test-runner integration |
+| 🐞 | Debugging | Breakpoints, stacks and variables |
+| 🔨 | Builds | Real build-system execution |
+| 🌿 | Git | Repository workflows |
+| 🌐 | APIs | HTTP development |
+| 🗄️ | Databases | Connections, queries and schemas |
+| 🐳 | Containers | Docker-based development |
+| 📦 | Monorepos | Workspace intelligence |
+| 🔐 | Security | Trust, isolation and secrets |
+| 🤖 | AI | Grounded developer assistance |
 
----
+</details>
 
-# 🖥️ Development Sessions
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00D4FF,100:7C3AED&height=3&section=header" width="100%"/>
 
-Instead of this:
+## 🖥️ Development Sessions
 
-```text
+<table align="center">
+<tr>
+<td align="center" valign="top">
+
+**Before**
+```
 Terminal 1 → Frontend
 Terminal 2 → Backend
 Terminal 3 → Worker
@@ -120,180 +137,213 @@ Terminal 4 → Database
 Terminal 5 → Electron
 ```
 
-Imagine:
+</td>
+<td align="center">➡️</td>
+<td align="center" valign="top">
 
-```text
-╭──────────────────────────────────────╮
-│        DEVELOPMENT SESSION           │
-├──────────────────────────────────────┤
-│ 🟢 Database               Connected  │
-│      ↓                               │
-│ 🟢 API                    :4000      │
-│      ↓                               │
-│ 🟢 Frontend               :3000      │
-│      ↓                               │
-│ 🔴 Worker                 Failed     │
-│      ↓                               │
-│ 🟡 Electron               Waiting    │
-╰──────────────────────────────────────╯
+**After**
+```
+🟢 Database      Connected
+🟢 API           :4000
+🟢 Frontend      :3000
+🔴 Worker        Failed
+🟡 Electron      Waiting
 ```
 
-And the IDE helps answer:
+</td>
+</tr>
+</table>
 
-```text
-WHAT FAILED?
-     ↓
-WHY?
-     ↓
-WHAT WAS AFFECTED?
-     ↓
-WHAT SHOULD HAPPEN NEXT?
+```mermaid
+flowchart LR
+    A[What failed?] --> B[Why?]
+    B --> C[What was affected?]
+    C --> D[What should happen next?]
+    style A fill:#F85149,color:#fff
+    style D fill:#3FB950,color:#fff
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
 
-# 🧠 RitualDev Principles
-
-```text
-REAL       > BROAD
-
-VERIFIED   > CLAIMED
-
-SECURE     > CONVENIENT
-
-RELIABLE   > FEATURE-RICH
-
-WORKFLOW   > FEATURE COUNT
-
-BUILD      > TALK
-```
-
----
-
-# 🛠️ Technologies We Explore
+## 🧠 RitualDev Principles
 
 <div align="center">
 
-### Languages
+| ⚖️ | Principle |
+|---|---|
+| ✅ | **REAL** > Broad |
+| ✅ | **VERIFIED** > Claimed |
+| ✅ | **SECURE** > Convenient |
+| ✅ | **RELIABLE** > Feature-rich |
+| ✅ | **WORKFLOW** > Feature count |
+| ✅ | **BUILD** > Talk |
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00D4FF,100:7C3AED&height=3&section=header" width="100%"/>
+
+## 🛠️ Technologies We Explore
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python&theme=dark"/>
+
+**Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,svelte&theme=dark"/>
+
+**Backend & Desktop**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,electron&theme=dark"/>
+
+**Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postgres,mongodb,sqlite&theme=dark"/>
+
+**Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=vite,webpack,npm,pnpm,yarn&theme=dark"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
+
+## 🧪 RitualDev Lab
+
+<div align="center">
+
+`🤖 AI Agents` • `🧠 Developer Intelligence` • `💻 IDE Architecture` • `⚡ JS/TS` • `🖥 Desktop Apps` • `🌐 Web Apps` • `🧰 Dev Tools` • `🐳 Dev Infrastructure` • `🔐 Security` • `🧩 Extensible Systems` • `🧪 Experimental Software` • `🌍 Open Source`
+
+</div>
+
+## 🌱 Right Now
+
+```yaml
+🔨 Building:      MyIDE
+🤖 Exploring:     AI Agents
+🧠 Researching:   AI × Developer Tools
+🧪 Experimenting: New software ideas
+🌐 Building:      RitualDev.in
+🚀 Shipping:      Projects
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FKolkata&query=%24.datetime&label=%F0%9F%95%92%20IST%20right%20now&color=00D4FF&style=for-the-badge"/>
+
+</div>
+
+> 🕒 *This badge refreshes on its own every few minutes — it's pulling the real clock, not a fixed screenshot.*
+
+### 💬 Quote of the Moment
+
+<div align="center">
+
+<a href="https://github.com/zhravan/github-readme-quotes"><img src="https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=programming&theme=tokyonight" /></a>
+
+</div>
+
+### 🎧 Now Playing
+
+<div align="center">
+
+<!-- Once connected at spotify-github-profile.kittinanx.com/api/login, replace YOUR_SPOTIFY_UID below -->
+<a href="https://spotify-github-profile.kittinanx.com/api/login">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&bar_color=00D4FF&bar_color_cover=false"/>
+</a>
+
+*Not connected yet — click the badge above once to link your Spotify account, then swap `YOUR_SPOTIFY_UID` for the UID it gives you.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00D4FF,100:7C3AED&height=3&section=header" width="100%"/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ritual-Dev-Git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritual-Dev-Git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9" width="38%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritual-Dev-Git&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=7C3AED&fire=00D4FF&currStreakLabel=00D4FF" width="60%"/>
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritual-Dev-Git&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=7C3AED&point=ffffff" width="90%"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+*If the snake does not appear yet, the `output` branch must first be generated by the GitHub Action.*
+
+</div>
+
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+
+*Generated by [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — a rotating isometric read of the same graph above. Needs its own workflow file (see `AUTOMATION-SETUP.md`).*
+
+</div>
+
+## 🎮 Arcade Contribution Graph
+
+Straight Tetris-as-a-GitHub-Action turned out to not really exist as a maintained option — the closest working setups turn the same grid into other arcade games instead. Minesweeper's the closest thing to a puzzle-block game that's actually solid here, so it's paired with Breakout for a second one:
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/minesweeper-contribution-graph-dark.svg">
+  <img alt="Minesweeper contribution graph" src="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/minesweeper-contribution-graph.svg" width="90%">
+</picture>
 
 <br/><br/>
 
-### Web
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/breakout-contribution-graph-dark.svg">
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/breakout-contribution-graph.svg" width="90%">
+</picture>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,svelte" />
-
-<br/><br/>
-
-### Backend & Desktop
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,electron" />
-
-<br/><br/>
-
-### Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postgres,mongodb,sqlite" />
-
-<br/><br/>
-
-### Tooling
-
-<img src="https://skillicons.dev/icons?i=vite,webpack,npm,pnpm,yarn" />
+*Powered by [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph) — the same library also does Pac-Man, Galaga, Puzzle Bobble, and Bomberman if you want to swap games later.*
 
 </div>
 
----
-
-# 🧪 RitualDev Lab
-
-We're interested in:
-
-```text
-🤖 AI Agents
-🧠 Developer Intelligence
-💻 IDE Architecture
-⚡ JavaScript / TypeScript
-🖥 Desktop Applications
-🌐 Web Applications
-🧰 Developer Tools
-🐳 Development Infrastructure
-🔐 Security
-🧩 Extensible Systems
-🧪 Experimental Software
-🌍 Open Source
-```
-
----
-
-# 🌱 Right Now
-
-```text
-🔨 Building       → MyIDE
-
-🤖 Exploring      → AI Agents
-
-🧠 Researching    → AI × Developer Tools
-
-🧪 Experimenting  → New software ideas
-
-🌐 Building       → RitualDev.in
-
-🚀 Shipping       → Projects
-```
-
----
-
-# 📊 GitHub Activity
+## 📊 Metrics Dashboard
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritual-Dev-Git&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/master/github-metrics.svg" width="90%"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritual-Dev-Git&layout=compact&theme=tokyonight&hide_border=true" />
+*Full isometric-calendar / language-breakdown / habits dashboard from [lowlighter/metrics](https://github.com/lowlighter/metrics) — auto-refreshes daily once its workflow is added.*
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7C3AED,100:00D4FF&height=3&section=header" width="100%"/>
 
-# 📈 Contribution Activity
+## 🌍 RitualDev Network
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritual-Dev-Git&theme=tokyo-night&hide_border=true" />
+<a href="https://ritualdev.in"><img src="https://img.shields.io/badge/🌐-ritualdev.in-0D1117?style=flat-square"/></a>
+<a href="https://github.com/Ritual-Dev-Git"><img src="https://img.shields.io/badge/💻-GitHub-0D1117?style=flat-square"/></a>
+<a href="https://www.reddit.com/r/MyIDE/"><img src="https://img.shields.io/badge/👾-r%2FMyIDE-0D1117?style=flat-square"/></a>
 
 </div>
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/github-contribution-grid-snake-dark.svg" alt="RitualDev contribution snake" />
-
-</div>
-
-> If the snake does not appear yet, the `output` branch must first be generated by the GitHub Action.
-
----
-
-# 🌍 RitualDev Network
-
-<div align="center">
-
-### 🌐 [ritualdev.in](https://ritualdev.in)
-
-### 💻 [GitHub](https://github.com/Ritual-Dev-Git)
-
-### 👾 [r/MyIDE](https://www.reddit.com/r/MyIDE/)
-
-</div>
-
----
-
-# 🤝 Build With Us
+## 🤝 Build With Us
 
 We're interested in people who enjoy:
 
@@ -303,34 +353,20 @@ You don't need to agree with every idea.
 
 **Good criticism is useful. Better ideas are welcome.**
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00D4FF,100:7C3AED&height=3&section=header" width="100%"/>
 
-# 💬 One Question
+## 💬 One Question
 
 <div align="center">
 
 ### What makes you leave your IDE most often while developing?
 
-Terminal? Docker? Databases? APIs? Browser DevTools? Deployment?
+*Terminal? Docker? Databases? APIs? Browser DevTools? Deployment?*
 
-### That's one of the questions behind MyIDE.
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ RITUALDEV
-
-### BUILD • BREAK • LEARN • REBUILD
-
-<img src="https://komarev.com/ghpvc/?username=Ritual-Dev-Git&label=PROFILE+VIEWS&style=for-the-badge" />
-
-<br/><br/>
-
-**Software · AI · Developer Tools · Experiments**
-
-**ritualdev.in**
+**That's one of the questions behind MyIDE.**
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=150&section=footer&text=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20LEARN%20%E2%80%A2%20REBUILD&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
