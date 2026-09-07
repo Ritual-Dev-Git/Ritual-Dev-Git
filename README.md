@@ -1,95 +1,72 @@
-````md
-<!-- ========================================================= -->
-<!--                    RITUALDEV PROFILE                       -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 # ⚡ RITUALDEV
 
-### `SOFTWARE • AI • DEVELOPER TOOLS • EXPERIMENTS`
+### SOFTWARE • AI • DEVELOPER TOOLS • EXPERIMENTS
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=800&lines=We+build+things+that+probably+shouldn't+exist+yet.;Building+developer+tools+for+the+next+generation.;AI+%C3%97+Developer+Experience+%C3%97+Open+Source;Currently+building+MyIDE+%F0%9F%9A%80"
-  alt="Typing SVG"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+developer+tools+for+the+next+generation.;Software+%C3%97+AI+%C3%97+Developer+Experience;Currently+building+MyIDE+%F0%9F%9A%80;Build.+Break.+Learn.+Rebuild." alt="RitualDev typing animation" />
 
 <br/>
 
 <a href="https://ritualdev.in">
-  <img src="https://img.shields.io/badge/Website-ritualdev.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Website-ritualdev.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="https://github.com/Ritual-Dev-Git">
-  <img src="https://img.shields.io/badge/GitHub-RitualDev-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-RitualDev-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.reddit.com/r/MyIDE/">
-  <img src="https://img.shields.io/badge/Community-r%2FMyIDE-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Community-r%2FMyIDE-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+## 🧬 RitualDev
 
-## 🧬 WHAT IS RITUALDEV?
-
-</div>
-
-RitualDev is a software and experimentation lab focused on building developer tools, AI-powered systems, automation, infrastructure, and ideas that explore what software could become.
+**RitualDev** is a software and experimentation lab exploring developer tools, AI, automation, infrastructure, and new software ideas.
 
 ```text
-                         ┌──────────────────┐
-                         │    RITUALDEV     │
-                         │   SOFTWARE LAB   │
-                         └────────┬─────────┘
-                                  │
-                 ┌────────────────┼────────────────┐
-                 │                │                │
-                 ▼                ▼                ▼
-            🤖 AI AGENTS      💻 MYIDE       🧪 EXPERIMENTS
-                 │                │                │
-                 ▼                ▼                ▼
-           Automation        Developer         New Ideas
-           Intelligence      Infrastructure    Prototypes
-````
+                    ┌──────────────────┐
+                    │    RITUALDEV     │
+                    └────────┬─────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+              ▼              ▼              ▼
+         🤖 AI LAB       💻 MYIDE      🧪 EXPERIMENTS
+              │              │              │
+              ▼              ▼              ▼
+        Intelligence     Dev Tools       New Ideas
+        Automation       Infrastructure  Prototypes
+```
 
-<div align="center">
-
-> ### We like building things that probably shouldn't exist yet.
-
-</div>
+> **We like building things that probably shouldn't exist yet.**
 
 ---
 
-# 🚀 CURRENTLY BUILDING
-
-<div align="center">
+# 🚀 Currently Building
 
 ## 💻 MyIDE
 
-### A development workspace that understands your project.
+### A developer workspace that understands the project around your code.
 
-</div>
+MyIDE is a **local-first developer IDE**, beginning with a strong focus on JavaScript and TypeScript development.
 
-MyIDE is being built as a **local-first developer IDE**, starting with deep JavaScript and TypeScript support.
-
-The goal is not simply:
+The idea is not simply:
 
 ```text
 Open Files → Edit Code
 ```
 
-The goal is:
+It's closer to:
 
 ```text
 OPEN PROJECT
      ↓
-UNDERSTAND PROJECT
-     ↓
-DETECT STACK
+UNDERSTAND STACK
      ↓
 DETECT RUNTIME
      ↓
@@ -104,42 +81,96 @@ TEST
 DEBUG
      ↓
 BUILD
-     ↓
-SHIP
 ```
 
-### 🧠 The core idea
-
-> Open a project and let the IDE understand what it is, what it needs, what is running, what is broken, and what should happen next.
+> **Open a project and let the IDE understand what it is, what it needs, what's running, what's broken, and what should happen next.**
 
 ---
 
-# ⚡ MYIDE IS EXPLORING
+## ⚡ What MyIDE Is Exploring
 
-<div align="center">
-
-|     | Capability           |                                    |
-| --- | -------------------- | ---------------------------------- |
-| 💻  | Code Editing         | JS / TS / JSX / TSX                |
-| 🧠  | Project Intelligence | Understand project structure       |
-| 🖥️ | Terminal             | Real development processes         |
-| ⚙️  | Sessions             | Multiple services in one workspace |
-| 🧪  | Testing              | Vitest / Jest / Playwright / more  |
-| 🐞  | Debugging            | Breakpoints / variables / stacks   |
-| 🔨  | Build Systems        | Vite / Webpack / Rollup / more     |
-| 🌿  | Git                  | Changes / branches / commits       |
-| 🌐  | API Tools            | HTTP development                   |
-| 🗄️ | Databases            | Connections / queries / schemas    |
-| 🐳  | Containers           | Docker development                 |
-| 📦  | Monorepos            | Workspace intelligence             |
-| 🔐  | Security             | Trust / sandbox / secrets          |
-| 🤖  | AI                   | Grounded developer assistance      |
-
-</div>
+|     | Area                 | Goal                                |
+| --- | -------------------- | ----------------------------------- |
+| 💻  | Editor               | JS / TS / JSX / TSX                 |
+| 🧠  | Project Intelligence | Understand the whole project        |
+| 🖥️ | Terminal             | Real terminal and process execution |
+| ⚙️  | Dev Sessions         | Manage multiple project services    |
+| 🧪  | Testing              | Real test-runner integration        |
+| 🐞  | Debugging            | Breakpoints, stacks and variables   |
+| 🔨  | Builds               | Real build-system execution         |
+| 🌿  | Git                  | Repository workflows                |
+| 🌐  | APIs                 | HTTP development                    |
+| 🗄️ | Databases            | Connections, queries and schemas    |
+| 🐳  | Containers           | Docker-based development            |
+| 📦  | Monorepos            | Workspace intelligence              |
+| 🔐  | Security             | Trust, isolation and secrets        |
+| 🤖  | AI                   | Grounded developer assistance       |
 
 ---
 
-# 🧩 ECOSYSTEM
+# 🖥️ Development Sessions
+
+Instead of this:
+
+```text
+Terminal 1 → Frontend
+Terminal 2 → Backend
+Terminal 3 → Worker
+Terminal 4 → Database
+Terminal 5 → Electron
+```
+
+Imagine:
+
+```text
+╭──────────────────────────────────────╮
+│        DEVELOPMENT SESSION           │
+├──────────────────────────────────────┤
+│ 🟢 Database               Connected  │
+│      ↓                               │
+│ 🟢 API                    :4000      │
+│      ↓                               │
+│ 🟢 Frontend               :3000      │
+│      ↓                               │
+│ 🔴 Worker                 Failed     │
+│      ↓                               │
+│ 🟡 Electron               Waiting    │
+╰──────────────────────────────────────╯
+```
+
+And the IDE helps answer:
+
+```text
+WHAT FAILED?
+     ↓
+WHY?
+     ↓
+WHAT WAS AFFECTED?
+     ↓
+WHAT SHOULD HAPPEN NEXT?
+```
+
+---
+
+# 🧠 RitualDev Principles
+
+```text
+REAL       > BROAD
+
+VERIFIED   > CLAIMED
+
+SECURE     > CONVENIENT
+
+RELIABLE   > FEATURE-RICH
+
+WORKFLOW   > FEATURE COUNT
+
+BUILD      > TALK
+```
+
+---
+
+# 🛠️ Technologies We Explore
 
 <div align="center">
 
@@ -147,21 +178,25 @@ SHIP
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
 
-### Frontend
+<br/><br/>
+
+### Web
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,svelte" />
 
-### Backend
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+### Backend & Desktop
 
-### Desktop / Mobile
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,electron" />
 
-<img src="https://skillicons.dev/icons?i=electron" />
+<br/><br/>
 
 ### Infrastructure
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,postgres,mongodb,sqlite" />
+
+<br/><br/>
 
 ### Tooling
 
@@ -171,244 +206,112 @@ SHIP
 
 ---
 
-# 🧠 THE RITUALDEV MINDSET
+# 🧪 RitualDev Lab
 
-```text
-REAL       > BROAD
-VERIFIED   > CLAIMED
-SECURE     > CONVENIENT
-RELIABLE   > FEATURE-RICH
-WORKFLOW   > FEATURE COUNT
-BUILD      > TALK
-```
-
----
-
-# 🖥️ DEVELOPMENT SESSION VISION
-
-Instead of:
-
-```text
-Terminal 1 → Frontend
-Terminal 2 → API
-Terminal 3 → Worker
-Terminal 4 → Database
-Terminal 5 → Electron
-```
-
-Imagine:
-
-```text
-╭───────────────────────────────────────╮
-│          DEVELOPMENT SESSION          │
-├───────────────────────────────────────┤
-│ 🟢 Database             Connected     │
-│       ↓                               │
-│ 🟢 API                  :4000         │
-│       ↓                               │
-│ 🟢 Frontend             :3000         │
-│       ↓                               │
-│ 🔴 Worker               Failed        │
-│       ↓                               │
-│ 🟡 Electron             Waiting       │
-╰───────────────────────────────────────╯
-```
-
-And the IDE understands:
-
-```text
-WHAT FAILED?
-     ↓
-WHY DID IT FAIL?
-     ↓
-WHAT DID IT AFFECT?
-     ↓
-WHAT SHOULD HAPPEN NEXT?
-```
-
----
-
-# 🧪 THINGS WE LIKE BUILDING
+We're interested in:
 
 ```text
 🤖 AI Agents
 🧠 Developer Intelligence
-💻 IDE Infrastructure
-⚡ JavaScript / TypeScript Tools
+💻 IDE Architecture
+⚡ JavaScript / TypeScript
 🖥 Desktop Applications
 🌐 Web Applications
-🧰 Developer Utilities
+🧰 Developer Tools
 🐳 Development Infrastructure
-🔐 Secure Developer Systems
-🧩 Extensible Platforms
-🧪 Experimental Technology
+🔐 Security
+🧩 Extensible Systems
+🧪 Experimental Software
 🌍 Open Source
 ```
 
 ---
 
-# 📊 RITUALDEV ACTIVITY
-
-<div align="center">
-
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=Ritual-Dev-Git&show_icons=true&hide_border=true&theme=tokyonight"
-/>
-
-<img
-width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Ritual-Dev-Git&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritual-Dev-Git&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Ritual-Dev-Git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
-/>
-
-</div>
-
----
-
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Ritual-Dev-Git&theme=tokyo-night&hide_border=true"
-/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<p>
-  <b>Watch the RitualDev snake eat the contribution graph.</b>
-</p>
-
-<img
-src="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/github-contribution-grid-snake-dark.svg"
-alt="RitualDev contribution snake"
-/>
-
-</div>
-
----
-
-# 🌌 CURRENT MISSION
+# 🌱 Right Now
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│          BUILD BETTER DEV TOOLS             │
-│                                             │
-│          REDUCE CONTEXT SWITCHING           │
-│                                             │
-│          UNDERSTAND THE PROJECT             │
-│                                             │
-│          CONNECT THE WORKFLOW                │
-│                                             │
-│          KEEP THE DEVELOPER IN CONTROL       │
-│                                             │
-└─────────────────────────────────────────────┘
+🔨 Building       → MyIDE
+
+🤖 Exploring      → AI Agents
+
+🧠 Researching    → AI × Developer Tools
+
+🧪 Experimenting  → New software ideas
+
+🌐 Building       → RitualDev.in
+
+🚀 Shipping       → Projects
 ```
 
 ---
 
-# 🌍 RITUALDEV NETWORK
+# 📊 GitHub Activity
 
 <div align="center">
 
-### 🌐 Website
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritual-Dev-Git&show_icons=true&theme=tokyonight&hide_border=true" />
 
-**https://ritualdev.in**
-
-### 💻 GitHub
-
-**Ritual-Dev-Git**
-
-### 👾 MyIDE Community
-
-**r/MyIDE**
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritual-Dev-Git&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🤝 BUILD WITH US
+# 📈 Contribution Activity
 
-We're interested in developers who enjoy:
+<div align="center">
 
-```text
-JavaScript
-TypeScript
-Node.js
-Electron
-Developer Tools
-IDE Architecture
-Open Source
-AI
-Automation
-Infrastructure
-UI / UX
-Security
-Testing
-Performance
-Experimental Software
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritual-Dev-Git&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/github-contribution-grid-snake-dark.svg" alt="RitualDev contribution snake" />
+
+</div>
+
+> If the snake does not appear yet, the `output` branch must first be generated by the GitHub Action.
+
+---
+
+# 🌍 RitualDev Network
+
+<div align="center">
+
+### 🌐 [ritualdev.in](https://ritualdev.in)
+
+### 💻 [GitHub](https://github.com/Ritual-Dev-Git)
+
+### 👾 [r/MyIDE](https://www.reddit.com/r/MyIDE/)
+
+</div>
+
+---
+
+# 🤝 Build With Us
+
+We're interested in people who enjoy:
+
+`JavaScript` • `TypeScript` • `Node.js` • `Electron` • `Developer Tools` • `IDE Architecture` • `Open Source` • `AI` • `Automation` • `Infrastructure` • `UI/UX` • `Security` • `Testing` • `Performance`
 
 You don't need to agree with every idea.
 
-Good criticism is useful.
-
-Better ideas are welcome.
-
-And sometimes the best contribution is simply saying:
-
-> "This doesn't make sense. Here's a better way."
+**Good criticism is useful. Better ideas are welcome.**
 
 ---
 
-# 💬 ONE QUESTION
+# 💬 One Question
 
 <div align="center">
 
 ### What makes you leave your IDE most often while developing?
 
-Terminal?
-
-Docker?
-
-Databases?
-
-APIs?
-
-Browser DevTools?
-
-Deployment?
-
-Something else?
+Terminal? Docker? Databases? APIs? Browser DevTools? Deployment?
 
 ### That's one of the questions behind MyIDE.
 
@@ -418,112 +321,16 @@ Something else?
 
 <div align="center">
 
-## ⚡ RITUALDEV
+# ⚡ RITUALDEV
 
 ### BUILD • BREAK • LEARN • REBUILD
 
-<img
-src="https://komarev.com/ghpvc/?username=Ritual-Dev-Git&label=PROFILE+VIEWS&style=for-the-badge"
-/>
+<img src="https://komarev.com/ghpvc/?username=Ritual-Dev-Git&label=PROFILE+VIEWS&style=for-the-badge" />
 
 <br/><br/>
 
 **Software · AI · Developer Tools · Experiments**
 
-<br/>
-
-`ritualdev.in`
+**ritualdev.in**
 
 </div>
-```
-
-# 🐍 REQUIRED SNAKE WORKFLOW
-
-The snake will **not animate from README Markdown alone**. Add this file:
-
-```text
-.github/workflows/snake.yml
-```
-
-Paste:
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Ritual-Dev-Git
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to:
-
-```text
-GitHub Repository
-→ Actions
-→ Generate Contribution Snake
-→ Run workflow
-```
-
-After the workflow completes, the repository should contain an `output` branch and this README URL will start working:
-
-```text
-https://raw.githubusercontent.com/Ritual-Dev-Git/Ritual-Dev-Git/output/github-contribution-grid-snake-dark.svg
-```
-
-# ✨ IMPORTANT
-
-Because the repository is named:
-
-```text
-Ritual-Dev-Git/Ritual-Dev-Git
-```
-
-it is correctly shaped for a GitHub **profile README** if `Ritual-Dev-Git` is the actual profile/account username.
-
-I would also keep your **MyIDE repository separate** instead of putting all MyIDE source into this profile repository:
-
-```text
-Ritual-Dev-Git/
-│
-├── Ritual-Dev-Git     ← Profile README
-│
-├── MyIDE              ← MyIDE
-│
-├── ritualdev.in       ← Website
-│
-├── experiments
-│
-└── ...
-```
-
-That will make the GitHub presence look significantly more professional as RitualDev grows.
