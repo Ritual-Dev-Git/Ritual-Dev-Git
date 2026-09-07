@@ -122,6 +122,34 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00D4FF,100:7C3AED&height=3&section=header" width="100%"/>
 
+## 📊 Terminal Stats & Analytics 
+
+<div align="center"> 
+  <!-- GitHub Stats Terminal Style -->
+  <a href="https://github.com/Ritual-Dev-Git"> 
+    <img src="https://github-stats-terminal-style.vercel.app/api/stats?username=Ritual-Dev-Git&theme=tokyonight&headerStyle=mac&typingSpeed=84&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit" alt="GitHub Stats Terminal" /> 
+  </a> 
+</div> 
+
+<br/> 
+
+<div align="center"> 
+  <!-- Official GitHub Readme Stats -->
+  <img src="https://vercel.app" alt="GitHub Stats" /> 
+  <!-- Official Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Ritual-Dev-Git&theme=dark&hide_border=false" alt="GitHub Streak" /> 
+</div> 
+
+<br/> 
+
+<div align="center"> 
+  <!-- Official Top Languages -->
+  <img src="https://vercel.app" alt="Top Languages" /> 
+  <!-- Contributor Stats alternative or placeholder -->
+  <img src="https://vercel.app" alt="Repo Pin" />
+</div> 
+<br/>
+
 ## 🖥️ Development Sessions
 
 <table align="center">
